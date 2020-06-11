@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1526897741 source:f:\fit\degree\sem 2\c++\assignment\atr oop fariza 110048699\src\customer.cpp
+	"Customer.h"
+	<string>
+	<iostream>
+
+1526264695 f:\fit\degree\sem 2\c++\assignment\atr oop fariza 110048699\include\customer.h
+	<string>
+
+1527000002 source:f:\fit\degree\sem 2\c++\assignment\atr oop fariza 110048699\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+	"Customer.h"
+	"DomesticFlight.h"
+	"InternationalFlight.h"
+
+1526895660 f:\fit\degree\sem 2\c++\assignment\atr oop fariza 110048699\include\domesticflight.h
+	<Flight.h>
+
+1526390777 f:\fit\degree\sem 2\c++\assignment\atr oop fariza 110048699\include\flight.h
+
+1526390777 f:\fit\degree\sem 2\c++\assignment\atr oop fariza 110048699\include\internationalflight.h
+	<Flight.h>
+
+1526897741 source:f:\fit\degree\sem 2\c++\assignment\nur fariza 110048699\atr oop fariza 110048699\src\customer.cpp
+	"Customer.h"
+	<string>
+	<iostream>
+
+1527028388 f:\fit\degree\sem 2\c++\assignment\nur fariza 110048699\atr oop fariza 110048699\include\customer.h
+	<string>
+
+1527028683 source:f:\fit\degree\sem 2\c++\assignment\nur fariza 110048699\atr oop fariza 110048699\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<fstream>
+	"Customer.h"
+	"DomesticFlight.h"
+	"InternationalFlight.h"
+
+1526895660 f:\fit\degree\sem 2\c++\assignment\nur fariza 110048699\atr oop fariza 110048699\include\domesticflight.h
+	<Flight.h>
+
+1526390777 f:\fit\degree\sem 2\c++\assignment\nur fariza 110048699\atr oop fariza 110048699\include\flight.h
+
+1527028683 f:\fit\degree\sem 2\c++\assignment\nur fariza 110048699\atr oop fariza 110048699\include\internationalflight.h
+	<Flight.h>
+
